@@ -1,0 +1,14 @@
+Pb3
+
+Vehicle
+
+Id
+Name 
+Brand
+TypeOfVehicle
+canDrive
+
+Post
+Get
+canDrive based on id
+Delete Vehicle
